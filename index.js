@@ -29,6 +29,7 @@ console.log(`The range of your numbers is ${getRange(numbers)}.`);
 console.log(`The even numbers you gave are ${getEvens(numbers)}.`);
 console.log(`The odd numbers you gave are ${getOdds(numbers)}.`);
 
+console.log("lemon")
 // === EDIT THE CODE BELOW ===
 // Complete the functions below to make the program work!
 
